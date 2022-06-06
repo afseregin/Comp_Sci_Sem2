@@ -1,0 +1,8 @@
+ Is ugly
+ Is pretty
+ Is fat
+ Is cute
+ Is slow
+ Is fast
+ Is obese
+ Is wonderful
